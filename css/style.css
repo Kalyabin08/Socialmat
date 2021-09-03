@@ -787,7 +787,7 @@ color: #0B132A;
     height: 50px;
     border-radius: 50%;
     background-color: #fff;
-    background: url('img/slider/prev.png')center no-repeat;
+    background: url('./img/slider/prev.png')center no-repeat;
 }
 .slider .slick-arrow.slick-next{
     position: absolute;
